@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e08e31fc-5e2a-4be3-97dd-6f73f2ff2496" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mysqlJdbc.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mysqlJdbc.groovy" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677546993742</updated>
-      <workItem from="1677546995086" duration="763000" />
+      <workItem from="1677546995086" duration="1107000" />
     </task>
     <servers />
   </component>
